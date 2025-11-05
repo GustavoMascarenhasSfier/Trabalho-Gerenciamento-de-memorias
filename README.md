@@ -14,7 +14,7 @@ Repositório referente ao **trabalho da disciplina de Sistemas Operacionais**, c
 | Tamires de Sousa Martins | 24489346-2 | Engenharia de Software | 
 | Felipe Roberto Domingos Leite | 24000580-2 | Engenharia de Software | 
 | Jackeline Paola Martins | 24195840-2 | Engenharia de Software | 
-| Matheus de Souza Calistro | 2314703-5 | Engenharia de Software | 
+| Matheus de Souza Calistro | 24370489-2 | Engenharia de Software | 
 
 ---
 
